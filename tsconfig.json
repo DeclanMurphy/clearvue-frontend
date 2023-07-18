@@ -16,6 +16,7 @@
       "~/*": ["./*"],
       "@/*": ["./*"],
       "@components/*": ["./components/*"],
+      "@componentslazy/*": ["./componentslazy/*"],
       "@layouts/*": ["./layouts/*"],
       "@pages/*": ["./pages/*"],
       "@store/*": ["./store/*"],
